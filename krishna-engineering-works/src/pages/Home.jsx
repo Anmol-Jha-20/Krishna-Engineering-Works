@@ -76,10 +76,16 @@ const Home = () => {
               index === currentSlide ? "opacity-100" : "opacity-0"
             }`}
           >
-            <div
+            {/* <div
               className="absolute inset-0 bg-cover bg-center"
               style={{ backgroundImage: `url(${slide.image})` }}
+            /> */}
+            <img
+              src={slide.image}
+              alt={slide.title}
+              className="absolute inset-0 w-full h-full object-fill md:object-cover sm:object-center"
             />
+
             <div className={`absolute inset-0 ${slide.overlay}`} />
             <div className="relative z-10 flex items-center justify-center h-full text-center text-white">
               <div className="max-w-4xl mx-auto px-4">

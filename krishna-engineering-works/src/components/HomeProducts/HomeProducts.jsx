@@ -20,42 +20,42 @@ function HomeProducts() {
           description:
             "Efficient paper baling press machines for waste management and recycling operations with automated compression systems.",
           image:
-            "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/SELLER/Default/2023/4/301830101/XS/FB/ZE/60827842/hydraulic-power-press-500x500.jpeg",
         },
         {
           title: "Hydraulic Scrap Baling Press",
           description:
             "Robust scrap baling press machines for metal and waste processing with high compression ratios and durability.",
           image:
-            "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/ANDROID/Default/2023/6/314882679/QQ/WX/AS/60827842/product-jpeg-500x500.jpg",
         },
         {
           title: "H Frame Hydraulic Press",
           description:
             "Robust scrap baling press machines for metal and waste processing with high compression ratios and durability.",
           image:
-            "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/FY/AO/MY-60827842/hydraulic-press-500x500.jpg",
         },
         {
           title: "Hydraulic Belling Press",
           description:
             "Robust scrap baling press machines for metal and waste processing with high compression ratios and durability.",
           image:
-            "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/XE/YC/NH/SELLER-60827842/tube-draw-bench-machine-500x500.jpg",
         },
         {
           title: "Scrap Baling Press",
           description:
             "Robust scrap baling press machines for metal and waste processing with high compression ratios and durability.",
           image:
-            "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/AC/LX/SQ/SELLER-60827842/scrap-baling-press-500x500.jpg",
         },
         {
           title: "Automatic Carton Scrap Baling Press",
           description:
             "Robust scrap baling press machines for metal and waste processing with high compression ratios and durability.",
           image:
-            "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/UV/OV/GE/SELLER-60827842/automatic-carton-scrap-baling-press-500x500.jpg",
         },
       ],
     },
@@ -69,21 +69,21 @@ function HomeProducts() {
           description:
             "Precision draw bench machines for wire and tube drawing applications with advanced control systems and safety mechanisms.",
           image:
-            "https://images.unsplash.com/photo-1581092160562-40aa08e78837?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/SELLER/Default/2023/5/312308510/QI/PD/XY/60827842/automatic-draw-bench-machine-500x500.jpg",
         },
         {
           title: "Semi Automatic Draw Bench Machine",
           description:
             "Heavy-duty draw benches for metal forming and shaping operations with customizable specifications and configurations.",
           image:
-            "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/UN/EG/MY-60827842/semi-automatic-draw-bench-machine-500x500.jpg",
         },
         {
           title: "Pipe Draw Bench Machine",
           description:
             "Heavy-duty draw benches for metal forming and shaping operations with customizable specifications and configurations.",
           image:
-            "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/NV/DH/MY-60827842/pipe-draw-bench-machine-500x500.jpg",
         },
       ],
     },
@@ -95,7 +95,7 @@ function HomeProducts() {
           description:
             "Automated bottle filling machines for liquid packaging with precise volume control and high-speed operation capabilities.",
           image:
-            "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            "https://5.imimg.com/data5/ANDROID/Default/2023/6/314889541/AS/FB/SZ/60827842/product-jpeg-500x500.jpg",
         },
         {
           title: "Mindray Cell Counter",
